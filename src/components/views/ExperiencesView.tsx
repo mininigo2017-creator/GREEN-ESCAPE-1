@@ -49,13 +49,13 @@ export const ExperiencesView: React.FC = () => {
       {/* Editorial Header */}
       <div className="max-w-2xl space-y-3">
         <span className="text-xs font-semibold tracking-widest uppercase text-[#5A745C]">
-          Bộ Sưu Tập Trải Nghiệm
+          Green Escape · Rời xa áp lực. Trở về với chính mình.
         </span>
         <h1 className="font-serif text-3xl sm:text-5xl font-bold text-[#1B3C2A] tracking-tight">
-          Các Chuyến Đi Chữa Lành & Tái Tạo
+          Danh Sách Hành Trình Retreat
         </h1>
         <p className="text-sm text-[#556958] leading-relaxed">
-          Tất cả hành trình đều được thiết kế theo triết lý Du lịch Chậm (Slow Travel), tôn trọng thiên nhiên và nhịp sống của bạn.
+          Tất cả hành trình đều được thiết kế theo phong cách Premium Nature Retreat & Du lịch Chậm (Slow Travel), giúp bạn nghỉ ngơi, kết nối và tái tạo năng lượng giữa thiên nhiên trong lành.
         </p>
       </div>
 

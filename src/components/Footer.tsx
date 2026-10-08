@@ -15,6 +15,9 @@ export const Footer: React.FC = () => {
             <span className="font-serif text-2xl font-bold tracking-wider text-[#F4EFE6] block">
               GREEN ESCAPE
             </span>
+            <p className="text-xs font-serif italic text-[#C2D6C5]">
+              "Rời xa áp lực. Trở về với chính mình."
+            </p>
             <p className="text-sm text-[#B7C7B9] leading-relaxed max-w-sm">
               Không chỉ là một chuyến đi – đó là khoảng thời gian để nghỉ ngơi, kết nối và tái tạo năng lượng. Du lịch chậm, chữa lành và hòa mình vào thiên nhiên nguyên bản miền Bắc.
             </p>

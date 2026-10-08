@@ -10,9 +10,9 @@ export const Header: React.FC = () => {
 
   const navLinks = [
     { label: 'TRANG CHỦ', view: 'home' as const },
-    { label: 'TRẢI NGHIỆM', view: 'experiences' as const },
+    { label: 'HÀNH TRÌNH RETREAT', view: 'experiences' as const },
     { label: 'CUSTOMIZED ESCAPE', view: 'customized' as const },
-    { label: 'CORPORATE', view: 'corporate' as const },
+    { label: 'CORPORATE WELLNESS', view: 'corporate' as const },
     { label: 'VỀ GREEN ESCAPE', view: 'about' as const },
     { label: 'JOURNAL', view: 'journal' as const },
     { label: 'LIÊN HỆ', view: 'contact' as const }
