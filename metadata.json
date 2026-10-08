@@ -1,0 +1,7 @@
+{
+  "name": "Green Escape - Du Lịch Trải Nghiệm & Healing Retreat",
+  "description": "Green Escape - Nền tảng du lịch trải nghiệm, healing retreat và digital detox ngắn ngày gần Hà Nội. Nghỉ ngơi, kết nối và tái tạo năng lượng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
